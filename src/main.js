@@ -1,6 +1,7 @@
 import notify from './Notification';
 
 require('./main.css');
+require('./main.scss');
 notify.log('Here is the message again');
 notify.announce('Here is my message');
 
